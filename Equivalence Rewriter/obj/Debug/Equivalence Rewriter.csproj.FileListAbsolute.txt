@@ -1,0 +1,20 @@
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.frmER.resources
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.Properties.Resources.resources
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\bin\Debug\Equivalence Rewriter.exe
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\bin\Debug\Equivalence Rewriter.pdb
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.exe
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.pdb
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.StatementBox.resources
+C:\Users\Matt\Desktop\Classwork\Logic\Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.RuleDialog.resources
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.exe
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.pdb
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\bin\Debug\Equivalence Rewriter.exe
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\bin\Debug\Equivalence Rewriter.pdb
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.frmER.resources
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.Properties.Resources.resources
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.RuleDialog.resources
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence_Rewriter.StatementBox.resources
+C:\Users\Logan\Documents\Bramhub\Windows only\Matt Schoen Equivalence Rewriter\Equivalence Rewriter\obj\Debug\Equivalence Rewriter.csproj.GenerateResource.Cache
